@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "normbeleg": {
+      "type": "http",
+      "url": "https://normbeleg.ppftec.com/mcp"
+    }
+  }
+}

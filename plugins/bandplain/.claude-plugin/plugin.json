@@ -1,0 +1,12 @@
+{
+  "name": "bandplain",
+  "displayName": "Bandplain (EU pay transparency)",
+  "description": "Connects Claude to the Bandplain MCP server: pay transparency rules for EU countries, eight US states, British Columbia and Ontario, covering job-ad pay ranges, pay-information request deadlines and pay-gap figures. General information, not legal advice.",
+  "version": "1.0.0",
+  "author": { "name": "PPFTEC S.R.L." },
+  "homepage": "https://bandplain.ppftec.com/mcp/docs/",
+  "repository": "https://github.com/PPFTEC/ppftec-plugins",
+  "keywords": ["pay-transparency","job-ads","pay-gap","hr","eu"],
+  "documentationUrl": "https://bandplain.ppftec.com/mcp/docs/",
+  "privacyPolicyUrl": "https://bandplain.ppftec.com/privacy/mcp/"
+}

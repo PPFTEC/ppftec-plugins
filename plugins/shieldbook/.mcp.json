@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "shieldbook": {
+      "type": "http",
+      "url": "https://shieldbook.ppftec.com/mcp"
+    }
+  }
+}

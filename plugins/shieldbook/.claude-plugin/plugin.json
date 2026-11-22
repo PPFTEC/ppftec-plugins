@@ -1,0 +1,12 @@
+{
+  "name": "shieldbook",
+  "displayName": "Shieldbook (EU CRA)",
+  "description": "Connects Claude to the Shieldbook MCP server: EU Cyber Resilience Act (CRA) scope check, Article 14 reporting deadlines, SBOM and vulnerability tools. General information, not legal advice.",
+  "version": "1.0.0",
+  "author": { "name": "PPFTEC S.R.L." },
+  "homepage": "https://shieldbook.ppftec.com/mcp",
+  "repository": "https://github.com/PPFTEC/ppftec-plugins",
+  "keywords": ["cra","cyber-resilience-act","sbom","vulnerability-reporting","eu"],
+  "documentationUrl": "https://shieldbook.ppftec.com/mcp",
+  "privacyPolicyUrl": "https://shieldbook.ppftec.com/privacy"
+}

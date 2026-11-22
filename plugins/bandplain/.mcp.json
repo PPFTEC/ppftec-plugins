@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bandplain": {
+      "type": "http",
+      "url": "https://bandplain.ppftec.com/mcp"
+    }
+  }
+}

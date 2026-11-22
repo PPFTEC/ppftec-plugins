@@ -1,0 +1,12 @@
+{
+  "name": "eubinder",
+  "displayName": "EuBinder (EU shop rules)",
+  "description": "Connects Claude to the EuBinder MCP server: EU rules for online shops (GPSR and the EU responsible person, toys and cosmetics, PPWR and national packaging registers, accessibility, withdrawal button, customs on low-value parcels, B2B e-invoicing). General information, not legal advice.",
+  "version": "1.0.0",
+  "author": { "name": "PPFTEC S.R.L." },
+  "homepage": "https://eubinder.ppftec.com/connect",
+  "repository": "https://github.com/PPFTEC/ppftec-plugins",
+  "keywords": ["gpsr","ppwr","epr","accessibility","ecommerce","eu"],
+  "documentationUrl": "https://eubinder.ppftec.com/connect",
+  "privacyPolicyUrl": "https://eubinder.ppftec.com/mcp-privacy"
+}
