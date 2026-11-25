@@ -1,6 +1,6 @@
 ---
 name: normbeleg
-description: Use when the user works with EU electronic invoices: validating an XRechnung, EN 16931, Factur-X/ZUGFeRD, CIUS-RO (RO e-Factura) or Polish KSeF FA(3) invoice, understanding a rule or error code such as BR-DE-15, converting invoice data to an e-invoice, or looking up e-invoicing mandates (Germany, Romania, Poland, France, Belgium). Not for tax or accounting advice.
+description: "Use when the user works with EU electronic invoices: validating an XRechnung, EN 16931, Factur-X/ZUGFeRD, CIUS-RO (RO e-Factura) or Polish KSeF FA(3) invoice, understanding a rule or error code such as BR-DE-15, converting invoice data to an e-invoice, or looking up e-invoicing mandates (Germany, Romania, Poland, France, Belgium). Not for tax or accounting advice."
 ---
 
 # Normbeleg (EU e-invoices)

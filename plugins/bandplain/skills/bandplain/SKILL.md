@@ -1,6 +1,6 @@
 ---
 name: bandplain
-description: Use when the user asks about pay transparency rules: whether a job ad must show pay, checking a job ad against those rules, which pay range to post, the deadline to answer an employee's pay-information request and what the answer covers, gender pay-gap reporting rules for a company size, a gender pay gap from aggregated figures, or the transposition status of the EU Pay Transparency Directive (EU countries, US states and Canadian provinces covered by the tool). Not for individual salary advice.
+description: "Use when the user asks about pay transparency rules: whether a job ad must show pay, checking a job ad against those rules, which pay range to post, the deadline to answer an employee's pay-information request and what the answer covers, gender pay-gap reporting rules for a company size, a gender pay gap from aggregated figures, or the transposition status of the EU Pay Transparency Directive (EU countries, US states and Canadian provinces covered by the tool). Not for individual salary advice."
 ---
 
 # Bandplain (pay transparency)

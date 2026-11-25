@@ -1,6 +1,6 @@
 ---
 name: shieldbook
-description: Use when the user asks about the EU Cyber Resilience Act (CRA): whether it applies to a product, its product class, Article 14 reporting deadlines for actively exploited vulnerabilities or severe incidents, technical documentation, SBOMs, vulnerabilities in SBOM components, or security.txt. Not for NIS2, GDPR or AI Act questions.
+description: "Use when the user asks about the EU Cyber Resilience Act (CRA): whether it applies to a product, its product class, Article 14 reporting deadlines for actively exploited vulnerabilities or severe incidents, technical documentation, SBOMs, vulnerabilities in SBOM components, or security.txt. Not for NIS2, GDPR or AI Act questions."
 ---
 
 # Shieldbook (EU Cyber Resilience Act)

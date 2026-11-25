@@ -1,6 +1,6 @@
 ---
 name: eubinder
-description: Use when the user sells online into the EU and asks which EU rules may apply to their shop: product safety information (GPSR) and the EU responsible person, toys and cosmetics, packaging (PPWR) and national packaging registers (EPR), accessibility (European Accessibility Act), or wants a draft GPSR product-page block or accessibility statement. Not for taxes other than e-invoicing or for judging a specific product.
+description: "Use when the user sells online into the EU and asks which EU rules may apply to their shop: product safety information (GPSR) and the EU responsible person, toys and cosmetics, packaging (PPWR) and national packaging registers (EPR), accessibility (European Accessibility Act), or wants a draft GPSR product-page block or accessibility statement. Not for taxes other than e-invoicing or for judging a specific product."
 ---
 
 # EuBinder (EU rules for online shops)
