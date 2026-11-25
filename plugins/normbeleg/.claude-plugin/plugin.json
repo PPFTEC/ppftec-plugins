@@ -1,12 +1,22 @@
 {
   "name": "normbeleg",
   "displayName": "Normbeleg (EU e-invoices)",
-  "description": "Connects Claude to the Normbeleg MCP server: validate and explain EU e-invoices (XRechnung, ZUGFeRD/Factur-X, RO e-Factura) and look up e-invoicing mandates. Technical checks, not tax or legal advice.",
-  "version": "1.0.0",
-  "author": { "name": "PPFTEC S.R.L." },
-  "homepage": "https://normbeleg.ppftec.com/mcp-plans",
+  "description": "Connects Claude to the Normbeleg MCP server: validate and explain EU e-invoices (XRechnung, EN 16931, ZUGFeRD/Factur-X, RO e-Factura CIUS-RO, schema check of Polish KSeF FA(3)), create e-invoice XML and look up e-invoicing mandates. Two tools work without an account. Technical checks, not tax or legal advice.",
+  "version": "1.1.0",
+  "author": {
+    "name": "PPFTEC S.R.L."
+  },
+  "homepage": "https://normbeleg.ppftec.com/mcp-docs",
   "repository": "https://github.com/PPFTEC/ppftec-plugins",
-  "keywords": ["e-invoice","xrechnung","zugferd","factur-x","e-factura","ksef","eu"],
-  "documentationUrl": "https://normbeleg.ppftec.com/mcp-plans",
+  "keywords": [
+    "e-invoice",
+    "xrechnung",
+    "zugferd",
+    "factur-x",
+    "e-factura",
+    "ksef",
+    "eu"
+  ],
+  "documentationUrl": "https://normbeleg.ppftec.com/mcp-docs",
   "privacyPolicyUrl": "https://normbeleg.ppftec.com/privacy#mcp"
 }

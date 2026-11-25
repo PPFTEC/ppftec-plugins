@@ -6,6 +6,6 @@
     { "name": "shieldbook", "source": "./plugins/shieldbook", "description": "EU Cyber Resilience Act (CRA): scope check, Article 14 reporting deadlines, SBOM and vulnerability tools.", "category": "compliance", "tags": ["cra", "sbom", "vulnerability-reporting"] },
     { "name": "eubinder", "source": "./plugins/eubinder", "description": "EU rules for online shops: GPSR and EU responsible person, toys and cosmetics, PPWR packaging registers, accessibility, withdrawal button, low-value parcel customs, B2B e-invoicing.", "category": "compliance", "tags": ["gpsr", "ppwr", "epr", "accessibility"] },
     { "name": "bandplain", "source": "./plugins/bandplain", "description": "Pay transparency (EU countries, eight US states, British Columbia, Ontario): job-ad pay ranges, pay-information request deadlines, pay-gap figures.", "category": "compliance", "tags": ["pay-transparency", "hr"] },
-    { "name": "normbeleg", "source": "./plugins/normbeleg", "description": "EU e-invoices: validate XRechnung, ZUGFeRD/Factur-X and RO e-Factura, explain rules, look up mandates.", "category": "compliance", "tags": ["e-invoice", "xrechnung", "e-factura"] }
+    { "name": "normbeleg", "source": "./plugins/normbeleg", "description": "EU e-invoices: validate XRechnung, ZUGFeRD/Factur-X, RO e-Factura and Polish KSeF FA(3) (schema), explain rules, look up mandates.", "category": "compliance", "tags": ["e-invoice", "xrechnung", "e-factura"] }
   ]
 }
