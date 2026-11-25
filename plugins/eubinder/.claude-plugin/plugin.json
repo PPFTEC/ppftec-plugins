@@ -8,5 +8,7 @@
   "repository": "https://github.com/PPFTEC/ppftec-plugins",
   "keywords": ["gpsr","ppwr","epr","accessibility","ecommerce","eu"],
   "documentationUrl": "https://eubinder.ppftec.com/connect",
-  "privacyPolicyUrl": "https://eubinder.ppftec.com/mcp-privacy"
+  "privacyPolicyUrl": "https://eubinder.ppftec.com/mcp-privacy",
+  "supportUrl": "https://eubinder.ppftec.com/connect",
+  "termsOfServiceUrl": "https://eubinder.ppftec.com/mcp-terms"
 }

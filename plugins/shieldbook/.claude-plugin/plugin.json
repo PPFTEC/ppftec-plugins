@@ -8,5 +8,7 @@
   "repository": "https://github.com/PPFTEC/ppftec-plugins",
   "keywords": ["cra","cyber-resilience-act","sbom","vulnerability-reporting","eu"],
   "documentationUrl": "https://shieldbook.ppftec.com/mcp",
-  "privacyPolicyUrl": "https://shieldbook.ppftec.com/privacy"
+  "privacyPolicyUrl": "https://shieldbook.ppftec.com/privacy",
+  "supportUrl": "https://shieldbook.ppftec.com/contact",
+  "termsOfServiceUrl": "https://shieldbook.ppftec.com/mcp/terms"
 }

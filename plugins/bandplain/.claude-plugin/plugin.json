@@ -8,5 +8,7 @@
   "repository": "https://github.com/PPFTEC/ppftec-plugins",
   "keywords": ["pay-transparency","job-ads","pay-gap","hr","eu"],
   "documentationUrl": "https://bandplain.ppftec.com/mcp/docs/",
-  "privacyPolicyUrl": "https://bandplain.ppftec.com/privacy/mcp/"
+  "privacyPolicyUrl": "https://bandplain.ppftec.com/privacy/mcp/",
+  "supportUrl": "https://bandplain.ppftec.com/mcp/docs/",
+  "termsOfServiceUrl": "https://bandplain.ppftec.com/terms/mcp/"
 }
